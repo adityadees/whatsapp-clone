@@ -32,3 +32,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+npx create whatsapp-clone
+npx next dev
+npm install --save styled-components
+npm install @material-ui/core
+npm install @material-ui/icons
+firebase -> firesotre database -> create database
+npm install --save firebase
+firebase -> authentication -> create google
+firebase -> project overview -> project setting -> platform WebApp -> register app -> console -> config 
+npm install email-validator
+npm install react-firebase-hooks
+npm install better-react-spinkit
+1:59
